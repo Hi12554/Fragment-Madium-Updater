@@ -1,0 +1,20 @@
+{
+    "version":  "1.7.9",
+    "files":  [
+                  {
+                      "name":  "Loader.exe",
+                      "size":  305152,
+                      "url":  "https://raw.githubusercontent.com/Hi12554/Fragment-Madium-Updater/raw/refs/heads/main/Loader.exe"
+                  },
+                  {
+                      "name":  "Madium-Module.dll",
+                      "size":  8200192,
+                      "url":  "https://raw.githubusercontent.com/Hi12554/Fragment-Madium-Updater/raw/refs/heads/main/Madium-Module.dll"
+                  },
+                  {
+                      "name":  "Madium.exe",
+                      "size":  12554752,
+                      "url":  "https://raw.githubusercontent.com/Hi12554/Fragment-Madium-Updater/raw/refs/heads/main/Madium.exe"
+                  }
+              ]
+}
